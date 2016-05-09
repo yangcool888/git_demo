@@ -11,4 +11,6 @@ public class test {
    System.out.println("ddd22222222");
    System.out.println("ddd99999");
    System.out.println("ddd11111");
+   System.out.println(" ≤‚ ‘ 001");
+   System.out.println(" ≤‚ ‘ 002");
 } 
