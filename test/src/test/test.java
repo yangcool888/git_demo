@@ -31,6 +31,8 @@ public class test {
 		   System.out.println(" ≤‚ ‘ 002");
 		   System.out.println(" ≤‚ ‘ 001");
 		   System.out.println(" ≤‚ ‘ 002");
+		   System.out.println(" ≤‚ ‘ 005");
+		   System.out.println(" ≤‚ ‘ 006");
 	}
    
 
