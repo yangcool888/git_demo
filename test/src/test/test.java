@@ -8,8 +8,13 @@ public class test {
    System.out.println("ddd555555");
    System.out.println("ddd77777");
    System.out.println("ddd88888");
+   System.out.println("ddd22222222");
    System.out.println("ddd99999");
+
    System.out.println("ddd11111"); 
    System.out.println("≤‚ ‘003");
    System.out.println("≤‚ ‘004");
+   System.out.println(" ≤‚ ‘ 001");
+   System.out.println(" ≤‚ ‘ 002");
+
 } 
