@@ -20,5 +20,15 @@ public class test {
    System.out.println(" ≤‚ ‘ 002");
    System.out.println(" ≤‚ ‘ 001");
    System.out.println(" ≤‚ ‘ 002");
+   
+   System.out.println("ddd2222222"); 
+   System.out.println("≤‚ ‘003");
+   System.out.println("≤‚ ‘004");
+   System.out.println(" ≤‚ ‘ 001");
+   System.out.println(" ≤‚ ‘ 002");
+   System.out.println(" ≤‚ ‘ 001");
+   System.out.println(" ≤‚ ‘ 002");
+   System.out.println(" ≤‚ ‘ 001");
+   System.out.println(" ≤‚ ‘ 002");
 
 } 
