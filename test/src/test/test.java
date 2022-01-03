@@ -35,6 +35,9 @@ public class test {
 		   System.out.println(" ≤‚ ‘ 006");
 		   System.out.println(" ≤‚ ‘ 003");
 		   System.out.println(" ≤‚ ‘ 004");
+
+		   System.out.println("ddd2222222--------------------------------------"); 
+		
 	}
    
 
